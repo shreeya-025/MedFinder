@@ -15,9 +15,7 @@
 
 ## 🛠️ Tech Stack
 
-* **Frontend**: React / Android Studio (Java/Kotlin) / Flutter *(Keep only what applies)*
-* **Backend**: Node.js / Firebase *(Keep only what applies)*
-* **Database**: MongoDB / Firestore *(Keep only what applies)*
+* **Frontend**: React / Android Studio (Java/Kotlin) / Flutter 
 * **APIs**: Google Maps API, RxNorm Medicine API
 
 ---
