@@ -15,8 +15,9 @@
 
 ## 🛠️ Tech Stack
 
-* **Frontend**: React / Android Studio (Java/Kotlin) / Flutter 
-* **APIs**: Google Maps API, RxNorm Medicine API
+* **Frontend**: HTML5, CSS3
+* **Backend**: Python (Flask/FastAPI)
+* **Data & ML**: Scikit-Learn, Pandas, Pickle (`.pkl`)
 
 ---
 
